@@ -1,0 +1,120 @@
+car.cs
++---------------------+-----------------------------+--------------------+
+| Class               | Methods                     | Variables          |
+|---------------------+-----------------------------+--------------------|
+| class Car : Vehicle | public void information()   | string brand, make |
+|                     | public int increase_speed() | int speed          |
+|                     |                             | int year           |
+|                     |                             | int model          |
++---------------------+-----------------------------+--------------------+
+
+Circle.java
++--------------------------------------+-------------------------------------------+-------------+
+| Class                                | Methods                                   | Variables   |
+|--------------------------------------+-------------------------------------------+-------------|
+| public class Circle implements shape | public void input(int radius , double pi) | int radius  |
+| public class Circle implements shape | public void area()                        | double area |
+|                                      |                                           | double pi   |
++--------------------------------------+-------------------------------------------+-------------+
+
+footballer.cpp
++-------------------------------------------+---------------------+-------------+
+| Class                                     | Methods             | Variables   |
+|-------------------------------------------+---------------------+-------------|
+| class Footballer  inherits  public Person | void playFootball() |             |
++-------------------------------------------+---------------------+-------------+
+
+L.cpp
++--------------+-----------+-------------+
+| Class        | Methods   | Variables   |
+|--------------+-----------+-------------|
+| class person |           | int number  |
+| int main()   |           | string name |
++--------------+-----------+-------------+
+
+main.cpp
++------------+-----------+-------------+
+| Class      | Methods   | Variables   |
+|------------+-----------+-------------|
+| int main() |           |             |
++------------+-----------+-------------+
+
+MathsTeacher.cpp
++---------------------------------------------+-----------+-------------+
+| Class                                       | Methods   | Variables   |
+|---------------------------------------------+-----------+-------------|
+| class MathsTeacher  inherits  public Person |           |             |
++---------------------------------------------+-----------+-------------+
+
+MyTriangle.java
++-------------------------+--------------------------------------------------------------+--------------------+
+| Class                   | Methods                                                      | Variables          |
+|-------------------------+--------------------------------------------------------------+--------------------|
+| public class MyTriangle | public MyTriangle(int x1,int y1,int x2,int y2,int x3,int y3) | private MyPoint v2 |
+|                         | public MyTriangle(MyPoint v1,MyPoint v2,MyPoint v3)          | private MyPoint v3 |
+|                         | public String toString()                                     | private MyPoint v1 |
+|                         | public double getPerimeter()                                 |                    |
+|                         | public void getType()                                        |                    |
++-------------------------+--------------------------------------------------------------+--------------------+
+
+person.cpp
++--------------+----------------+-------------------+
+| Class        | Methods        | Variables         |
+|--------------+----------------+-------------------|
+| class Person | void display() | int age           |
+|              |                | string profession |
++--------------+----------------+-------------------+
+
+program.cs
++---------------------------------+---------------------------------+-------------+
+| Class                           | Methods                         | Variables   |
+|---------------------------------+---------------------------------+-------------|
+| class Program                   | static void Main(string[] args) |             |
+| static void Main(string[] args) |                                 |             |
++---------------------------------+---------------------------------+-------------+
+
+Random1.java
++----------------------------------------+----------------------------------------+-------------+
+| Class                                  | Methods                                | Variables   |
+|----------------------------------------+----------------------------------------+-------------|
+| public class Random1                   | public void randomise()                | int[] a     |
+| public static void main(String[] args) | public void set()                      | int i       |
+|                                        | public void frequency()                | int j       |
+|                                        | public void print()                    | int[] freq  |
+|                                        | public static void main(String[] args) |             |
++----------------------------------------+----------------------------------------+-------------+
+
+Rectangle.java
++---------------------------------------+-------------------------+-------------+
+| Class                                 | Methods                 | Variables   |
+|---------------------------------------+-------------------------+-------------|
+| public class Rectangle extends Circle | public void input()     | int length  |
+| public class Rectangle extends Circle | public void area()      | int breadth |
+|                                       | public String getArea() | double area |
++---------------------------------------+-------------------------+-------------+
+
+shape.java
++------------------------+-----------+-------------+
+| Class                  | Methods   | Variables   |
+|------------------------+-----------+-------------|
+| public interface shape |           |             |
++------------------------+-----------+-------------+
+
+Shapes.java
++----------------------------------------+----------------------------------------+-------------+
+| Class                                  | Methods                                | Variables   |
+|----------------------------------------+----------------------------------------+-------------|
+| public class Demo                      | public static void main(String[] args) |             |
+| public static void main(String[] args) |                                        |             |
++----------------------------------------+----------------------------------------+-------------+
+
+vehicle.cs
++---------------+--------------------+-------------------+
+| Class         | Methods            | Variables         |
+|---------------+--------------------+-------------------|
+| class Vehicle | public void honk() | string varient    |
+|               |                    | double torque     |
+|               |                    | double horsepower |
+|               |                    | string modelName  |
++---------------+--------------------+-------------------+
+
